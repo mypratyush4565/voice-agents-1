@@ -14,6 +14,19 @@ We just launched **Murf Falcon** – the consistently fastest TTS API, and you'r
 - Build a voice agent with specific personas and skills
 - Post on GitHub and share with the world on LinkedIn!
 
+---
+
+## 🚀 Quick Start
+
+**New to this project?** Check out these guides:
+
+- **[QUICK_START.md](./QUICK_START.md)** - Fast-track guide to get running in minutes
+- **[SETUP_GUIDE.md](./SETUP_GUIDE.md)** - Complete Windows setup guide with troubleshooting
+- **[setup.ps1](./setup.ps1)** - Interactive PowerShell setup script
+
+---
+
+
 ## Repository Structure
 
 This is a **monorepo** that contains both the backend and frontend for building voice agent applications. It's designed to be your starting point for each day's challenge task.
