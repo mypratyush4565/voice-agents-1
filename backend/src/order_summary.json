@@ -1,0 +1,11 @@
+[
+  {
+    "drinkType": "Latte",
+    "size": "Medium",
+    "milk": "Almond",
+    "extras": [
+      "Whipped cream"
+    ],
+    "name": "John"
+  }
+]
