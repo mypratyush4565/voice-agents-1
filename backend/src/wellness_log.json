@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2025-11-24 10:58",
+    "mood": "Excited",
+    "energy": "High",
+    "stress": "Minor deadlines",
+    "objectives": [
+      "Read book"
+    ],
+    "summary": "Mood: Excited, Energy: High, Stress: Minor deadlines, Objectives: Read book"
+  },
+  {
+    "date": "2025-11-24 11:01",
+    "mood": "Excited",
+    "energy": "High",
+    "stress": "Workload pressure",
+    "objectives": [
+      "Meditate"
+    ],
+    "summary": "Mood: Excited, Energy: High, Stress: Workload pressure, Objectives: Meditate"
+  }
+]
